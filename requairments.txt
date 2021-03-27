@@ -1,4 +1,5 @@
 pip install tkinter
 pip install python-tkinter
+You can also install our exe File to use easy
 also need python download for this
 Creater - Darsh Pro
